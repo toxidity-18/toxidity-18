@@ -42,5 +42,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-          publish_branch: main
+          publish_branch: output
           commit_message: "Update snake animation [skip ci]"
