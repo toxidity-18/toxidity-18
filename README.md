@@ -4,7 +4,7 @@
 - 💞️ .... Booked and busy 24/7
 - 📫 How to reach me desavigatunganga@gmail.com
 - 😄 Pronouns: CODE$TRADE {PURE CONSISTENCY}
-- ⚡ Fun fact: Am a curious Introvert
+- ⚡ Fun fact: Am a curious Introvert but a selective extrovert .
 
 <!---
 toxidity-18/toxidity-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
