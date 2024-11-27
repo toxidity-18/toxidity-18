@@ -35,6 +35,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+## Ever Consuming !
+![snake gif](https://github.com/toxidity-18/toxidity-18/blob/output/github-contribution-grid-snake-dark.svg)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=toxidity-18&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
 
