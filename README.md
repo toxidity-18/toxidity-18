@@ -5,6 +5,7 @@
 - 📫 How to reach me desavigatunganga@gmail.com
 - 😄 Pronouns: CODE$TRADE {PURE CONSISTENCY}
 - ⚡ Fun fact: Am a curious Introvert but a selective extrovert .
+- ✨ Movie lover , Anime geek and pure game zombian .
 
 <!---
 toxidity-18/toxidity-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
