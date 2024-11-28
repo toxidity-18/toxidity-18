@@ -1,15 +1,15 @@
 
 
-# 💫 About Me: Samuel Kamawira {S.G.K.GHOST}  
+# 💫 About Me: Samuel Kamawira  💫 {S.G.K.GHOST}   💫 
 👋 **Spartan in the Digital Arena!** We fight to the end.  
 
 👀 I’m a **Full-stack Developer**, **MERN-Stack Specialist**, and **Tech Enthusiast** with a passion for **system development**, **bot creation**, and crafting dynamic, user-friendly web solutions.  
 
-🌱 Currently, I’m refining my expertise in **JavaScript** and expanding my knowledge in **Vue.js**, **Express.js**, **Redux**, **Node.js**, **MongoDB**, and **Bootstrap**.  
+🌱 Currently, I’m refining my expertise in **JavaScript** and expanding my knowledge in **Vue.js**,**React.js**,**Express.js**, **Redux**, **Node.js**, **MongoDB**, and **Bootstrap**.  
 
 💞️ I’m **booked and busy** but always open to collaborating on innovative projects, particularly **front-end development**.  
 
-📫 Reach me at **[desavigatunganga@gmail.com](mailto:desavigatunganga@gmail.com)**  
+📫  ✍️ Reach me at **[desavigatunganga@gmail.com](mailto:desavigatunganga@gmail.com)**  
 
 ⚡ **Fun Fact:** I’m a curious introvert with a selective extrovert streak, a movie lover, anime geek, and avid gamer. Turns out, I'm battling a double dose of dread: **Peniaphobia** (fear of poverty) and **Atychiphobia** (fear of failure). Quite the dynamic duo, huh?  
 
