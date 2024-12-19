@@ -5,7 +5,7 @@
 
 👀 I’m a **Full-stack Developer**, **MERN-Stack Specialist**, and **Tech Enthusiast** with a passion for **system development**, **bot creation**, and crafting dynamic, user-friendly web solutions.  
 
-🌱 Currently, I’m refining my expertise in **JavaScript** and expanding my knowledge in **Vue.js**,**React.js**,**Express.js**, **Redux**, **Node.js**, **MongoDB**, and **Bootstrap**.  
+🌱 Currently, I’m refining evryhing taught at **Moringa School ** .  
 
 💞️ I’m **booked and busy** but always open to collaborating on innovative projects, particularly **front-end development**.  
 
