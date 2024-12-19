@@ -5,11 +5,11 @@
 
 👀 I’m a **Full-stack Developer**, **MERN-Stack Specialist**, and **Tech Enthusiast** with a passion for **system development**, **bot creation**, and crafting dynamic, user-friendly web solutions.  
 
-🌱 Currently, I’m refining evryhing taught at **Moringa School ** .  
+🌱 Currently, I’m refining everyhing taught at **Moringa School ** .  
 
 💞️ I’m **booked and busy** but always open to collaborating on innovative projects, particularly **front-end development**.  
 
-📫  ✍️ Reach me at **[desavigatunganga@gmail.com](mailto:desavigatunganga@gmail.com)**  
+📫  ✍️ Reach me at **[whatsapp](number:0796374161)**  
 
 ⚡ **Fun Fact:** I’m a curious introvert with a selective extrovert streak, a movie lover, anime geek, and avid gamer. Turns out, I'm battling a double dose of dread: **Peniaphobia** (fear of poverty) and **Atychiphobia** (fear of failure). Quite the dynamic duo, huh?  
 
