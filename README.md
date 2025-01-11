@@ -1,6 +1,6 @@
 
 
-# 💫 About Me: Samuel Kamawira  💫 {S.G.K.GHOST}   💫 
+# 💫 About Me: Samuel Kamawira  💫 !_$ 💫 
 👋 **Spartan in the Digital Arena!** We fight to the end.  
 
 👀 I’m a **Full-stack Developer**, **MERN-Stack Specialist**, and **Tech Enthusiast** with a passion for **system development**, **bot creation**, and crafting dynamic, user-friendly web solutions.  
