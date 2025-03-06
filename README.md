@@ -9,18 +9,17 @@
 
 💞️ I’m **booked and busy** but always open to collaborating on innovative projects, particularly **front-end development**.  
 
-📫  ✍️ Reach me at **[whatsapp](number:0796374161)**  
+📫  ✍️ ReBusy at the moment . . . 
 
 ⚡ **Fun Fact:** I’m a curious introvert with a selective extrovert streak, a movie lover, anime geek, and avid gamer. Turns out, I'm battling a double dose of dread: **Peniaphobia** (fear of poverty) and **Atychiphobia** (fear of failure). Quite the dynamic duo, huh?  
 
 🌍 Based in **Nairobi, Kenya**  
-🖥️ Explore my portfolio: **[My Portfolio](http://portfolio-eight-brown-73.vercel.app/)**  
+🖥️ Explore 
 
 ---
 
 ## 🌐 Connect with Me:  
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/sam.gich)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/s.g.k.ghost)  
 <a href="https://www.github.com/toxidity-18" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/toxidity-18?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>  
 
