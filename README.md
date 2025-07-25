@@ -9,13 +9,13 @@
 
 💞️ I’m **booked and busy** but always open to collaborating on innovative projects, particularly **front-end development**.  
 
-📫  ✍️ ReBusy at the moment . . . 
+📫 Busy at the moment . . . 
 
 ⚡ **Fun Fact:** I’m a curious introvert with a selective extrovert streak, a movie lover, anime geek, and avid gamer. Turns out, I'm battling a double dose of dread: **Peniaphobia** (fear of poverty) and **Atychiphobia** (fear of failure). Quite the dynamic duo, huh?  
 
 🌍 Based in **Nairobi, Kenya**  
 🖥️ Explore 
-
+✍ ... Faceless .
 ---
 
 ## 🌐 Connect with Me:  
