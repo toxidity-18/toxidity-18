@@ -5,7 +5,7 @@
 
 👀 I’m a **Full-stack Developer**,  and **Tech Enthusiast** with a passion for **system development**, **bot creation**, and **crafting dynamic, user-friendly web solutions.** 
 
-🌱 Currently, I’m refining everyhing taught at **Moringa School ** .  
+🌱 Currently, in PLP Academy .  
 
 💞️ I’m **booked and busy** but always open to collaborating on innovative projects, particularly **front-end development**.  
 
