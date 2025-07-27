@@ -95,8 +95,6 @@ Unity | Ubisoft | Steam | Xbox
 
 📍 Nairobi, Kenya
 🔗 [GitHub: toxidity-18](https://github.com/toxidity-18)
-📸 [Instagram: @s.g.k.ghost](https://instagram.com/s.g.k.ghost)
-
 ---
 
 ## 🔥 Quote That Drives Me
