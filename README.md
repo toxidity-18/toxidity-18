@@ -1,102 +1,112 @@
-
-
-# 💫 About Me: Samuel Kamawira  💫 !_$ 💫 
-👋 **Spartan in the Digital Arena!** We fight to the end.  
-
-👀 I’m a **Full-stack Developer**,  and **Tech Enthusiast** with a passion for **system development**, **bot creation**, and **crafting dynamic, user-friendly web solutions.** 
-
-🌱 Currently, in PLP Academy .  
-
-💞️ I’m **booked and busy** but always open to collaborating on innovative projects, particularly **front-end development**.  
-
-📫 Busy at the moment . . . 
-
-⚡ **Fun Fact:** I’m a curious introvert with a selective extrovert streak, a movie lover, anime geek, and avid gamer. Turns out, I'm battling a double dose of dread: **Peniaphobia** (fear of poverty) and **Atychiphobia** (fear of failure). Quite the dynamic duo, huh?  
-
-🌍 Based in **Nairobi, Kenya**  
-🖥️ Explore 
-✍ ... Faceless .
----
-
-## 🌐 Connect with Me:  
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/s.g.k.ghost)  
-<a href="https://www.github.com/toxidity-18" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/toxidity-18?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>  
+Here's a polished and unified version of your **"About Me" profile**, tailored for platforms like GitHub, your portfolio site, or LinkedIn, based on everything you've shared so far — including your tech interests, personality, coding habits, and vision:
 
 ---
 
-# 💻 Tech Stack:
+# 💫 Samuel Kamawira — *Faceless Executor* 💫
 
-## Languages 💻:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-
-## Hosting Platforms 💻:
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
-
-## Frameworks and Libraries 💻:
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
-![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
-
-
-## Server 💻:
-![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=plastic&logo=gunicorn&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white)
-
-
-## Databases 💻:
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
-
-## Design Tools 💻:
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
-
-## ML/DL 💻:
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-
-## CI/CD & Version Control Systems 💻:
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-
-
-## Others/Fun 💻:
-![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=plastic&logo=Ubisoft&logoColor=black)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white)
-![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white)
-
+**Spartan in the Digital Arena. We fight to the end.**
 
 ---
 
-### ✍️ Random Developer Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
+### 👨‍💻 Full-Stack Developer | Ethical Hacker in Training | Startup Visionary
+
+Based in **Nairobi, Kenya**, I’m a passionate and multi-skilled developer with a hacker’s mind, a founder’s vision, and a coder’s discipline. I’m currently advancing through **PLP Academy**, **The Odin Project**, and **Moringa School**, constantly leveling up my stack.
+
+> *“I’m not just building code—I’m building legacy. One function, one repo, one startup at a time.”*
 
 ---
 
-## 🐍 Contribution Snake  
-![Contribution Snake](https://github.com/toxidity-18/toxidity-18/blob/output/github-contribution-grid-snake-dark.svg)  
+## 🔍 What I Do:
 
+* 💻 **Full-Stack Development** (React | Flask | FastAPI | PostgreSQL)
+* 🧠 **Mathematical & Logical Thinking** (Dynamic Programming | Algorithms)
+* 🛠️ **Toolsmith & Terminal Artist** (Python-based hacking simulations, automation bots)
+* 🌍 **Startup Prototyper** (Fintech | Cybersecurity | AgriTech | AI bots)
+* 🧪 **Experimenter at Heart** (Fake hacking tools, web exploits, reverse shell sims — all ethical)
+* 🧱 **System Thinker** (Abstraction, recursion, modeling real-world logic)
 
+---
+
+## 💻 Tech Toolbox:
+
+### 👨‍💻 **Languages**:
+
+JavaScript | Python | HTML | CSS | GraphQL
+
+### ⚙️ **Frameworks & Libraries**:
+
+React, Redux, TailwindCSS, Flask, FastAPI, Next.js, Node.js, Vite, React Hook Form, React Router
+
+### 📡 **Databases**:
+
+PostgreSQL | SQLite | MySQL | Firebase
+
+### ☁️ **Hosting & DevOps**:
+
+Firebase | Heroku | Netlify | Vercel | Google Cloud | Render | Gunicorn | Jenkins | GitHub Actions
+
+### 📦 **Version Control**:
+
+Git | GitHub
+
+### 🧠 **Machine Learning** (Beginner):
+
+Pandas | NumPy
+
+### 🎨 **Design**:
+
+Figma | Canva | Framer
+
+### 🧪 **Fun/Other**:
+
+Unity | Ubisoft | Steam | Xbox
+
+---
+
+## 🧠 My Daily Coding Mindset:
+
+| 🧩 Concept            | 💡 Application                          |
+| --------------------- | --------------------------------------- |
+| Logical Thinking      | Writing clean, efficient, bug-free code |
+| Recursion & Induction | Loop logic, recursive design            |
+| Set Theory            | Data filtering, logic building          |
+| Graph Theory          | Networks, trees, interconnected systems |
+| Big-O Notation        | Time and space optimization             |
+| Abstraction           | Modeling complex systems clearly        |
+| Randomness            | Game logic, simulations                 |
+| Combinatorics         | Search spaces, permutations, scenarios  |
+| Dynamic Programming   | Efficient problem-solving               |
+| Proof Techniques      | Validating assumptions, edge cases      |
+
+---
+
+## 💬 Fun Facts:
+
+* 🎮 Gamer, anime geek, and an **introvert with a selective extrovert streak**.
+* 🤖 I build fake hacking tools for fun (educational ones, don’t worry).
+* 🕹️ Current dev obsession: Python-based **F.E.C.H** — a terminal-based hacking simulator.
+* 🧠 Fears? Yeah: **Peniaphobia** (fear of poverty) + **Atychiphobia** (fear of failure) = unbreakable grind.
+
+---
+
+## 📫 Contact or Collaborate?
+
+> "I’m booked and busy — but if the mission is bold, I’ll pick up the call."
+
+📍 Nairobi, Kenya
+🔗 [GitHub: toxidity-18](https://github.com/toxidity-18)
+📸 [Instagram: @s.g.k.ghost](https://instagram.com/s.g.k.ghost)
+
+---
+
+## 🔥 Quote That Drives Me
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=dark)
+
+---
+
+## 🐍 Contribution Snake
+
+![Contribution Snake](https://github.com/toxidity-18/toxidity-18/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
