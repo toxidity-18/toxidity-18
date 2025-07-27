@@ -1,4 +1,4 @@
-Here's a polished and unified version of your **"About Me" profile**, tailored for platforms like GitHub, your portfolio site, or LinkedIn, based on everything you've shared so far — including your tech interests, personality, coding habits, and vision:
+
 
 ---
 
