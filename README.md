@@ -31,15 +31,15 @@ Based in **Nairobi, Kenya**, I’m a passionate and multi-skilled developer with
 
 ### 👨‍💻 **Languages**:
 
-JavaScript | Python | HTML | CSS | GraphQL
+JavaScript | Python | HTML | CSS 
 
 ### ⚙️ **Frameworks & Libraries**:
 
-React, Redux, TailwindCSS, Flask, FastAPI, Next.js, Node.js, Vite, React Hook Form, React Router
+React, Redux, TailwindCSS, Flask, FastAPI, Vite, React Hook Form, React Router
 
 ### 📡 **Databases**:
 
-PostgreSQL | SQLite | MySQL | Firebase
+PostgreSQL | SQLite | MySQL | Firebase | Supabase
 
 ### ☁️ **Hosting & DevOps**:
 
