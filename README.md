@@ -1,110 +1,65 @@
 
+# **Samuel Kamawira**
+
+**Software Engineer | AI & Backend Systems**
+
+Nairobi, Kenya
 
 ---
 
-# 💫 Samuel Kamawira — *Faceless Executor* 💫
+## Profile
 
-**Spartan in the Digital Arena. We fight to the end.**
+I am a focused and disciplined software engineer specializing in **Python-based backend systems, AI engineering, and secure API development**.
 
----
+My approach is simple: build reliable systems, write clean code, and let the work speak for itself.
 
-### 👨‍💻 Full-Stack Developer | Ethical Hacker in Training | Startup Visionary
-
-Based in **Nairobi, Kenya**, I’m a passionate and multi-skilled developer with a hacker’s mind, a founder’s vision, and a coder’s discipline. I’m currently advancing through **PLP Academy**, **The Odin Project**, and **Moringa School**, constantly leveling up my stack.
-
-> *“I’m not just building code—I’m building legacy. One function, one repo, one startup at a time.”*
+I prefer depth over noise, execution over talk, and precision over hype.
 
 ---
 
-## 🔍 What I Do:
+## Core Expertise
 
-* 💻 **Full-Stack Development** (React | Flask | FastAPI | PostgreSQL)
-* 🧠 **Mathematical & Logical Thinking** (Dynamic Programming | Algorithms)
-* 🛠️ **Toolsmith & Terminal Artist** (Python-based hacking simulations, automation bots)
-* 🌍 **Startup Prototyper** (Fintech | Cybersecurity | AgriTech | AI bots)
-* 🧪 **Experimenter at Heart** (Fake hacking tools, web exploits, reverse shell sims — all ethical)
-* 🧱 **System Thinker** (Abstraction, recursion, modeling real-world logic)
-
----
-
-## 💻 Tech Toolbox:
-
-### 👨‍💻 **Languages**:
-
-JavaScript | Python | HTML | CSS 
-
-### ⚙️ **Frameworks & Libraries**:
-
-React, Redux, TailwindCSS, Flask, FastAPI, Vite, React Hook Form, React Router
-
-### 📡 **Databases**:
-
-PostgreSQL | SQLite | MySQL | Firebase | Supabase
-
-### ☁️ **Hosting & DevOps**:
-
-Firebase | Heroku | Netlify | Vercel | Google Cloud | Render | Gunicorn | Jenkins | GitHub Actions
-
-### 📦 **Version Control**:
-
-Git | GitHub
-
-### 🧠 **Machine Learning** (Beginner):
-
-Pandas | NumPy
-
-### 🎨 **Design**:
-
-Figma | Canva | Framer
-
-### 🧪 **Fun/Other**:
-
-Unity | Ubisoft | Steam | Xbox
+* **Python Engineering** – Production-grade applications and system design
+* **Flask Development** – Scalable backend architectures and RESTful APIs
+* **Generative AI for Software Engineering** – LLM integrations, AI-assisted systems
+* **AI Engineering (Foundations)** – Model integration, data handling, practical ML
+* **API Architecture & Integration** – Design, documentation, and secure deployment
+* **Web Security** – Secure coding practices, authentication systems, vulnerability awareness
 
 ---
 
-## 🧠 My Daily Coding Mindset:
+## Technical Stack
 
-| 🧩 Concept            | 💡 Application                          |
-| --------------------- | --------------------------------------- |
-| Logical Thinking      | Writing clean, efficient, bug-free code |
-| Recursion & Induction | Loop logic, recursive design            |
-| Set Theory            | Data filtering, logic building          |
-| Graph Theory          | Networks, trees, interconnected systems |
-| Big-O Notation        | Time and space optimization             |
-| Abstraction           | Modeling complex systems clearly        |
-| Randomness            | Game logic, simulations                 |
-| Combinatorics         | Search spaces, permutations, scenarios  |
-| Dynamic Programming   | Efficient problem-solving               |
-| Proof Techniques      | Validating assumptions, edge cases      |
+**Languages**
+Python, JavaScript, SQL
 
----
+**Backend & APIs**
+Flask, FastAPI
 
-## 💬 Fun Facts:
+**AI & Data**
+GenAI integrations, Pandas, NumPy
 
-* 🎮 Gamer, anime geek, and an **introvert with a selective extrovert streak**.
-* 🤖 I build fake hacking tools for fun (educational ones, don’t worry).
-* 🕹️ Current dev obsession: Python-based **F.E.C.H** — a terminal-based hacking simulator.
-* 🧠 Fears? Yeah: **Peniaphobia** (fear of poverty) + **Atychiphobia** (fear of failure) = unbreakable grind.
+**Databases**
+PostgreSQL, MySQL, SQLite
+
+**DevOps & Deployment**
+Git, GitHub, CI/CD pipelines, Cloud deployment platforms
 
 ---
 
-## 📫 Contact or Collaborate?
+## Working Philosophy
 
-> "I’m booked and busy — but if the mission is bold, I’ll pick up the call."
-
-📍 Nairobi, Kenya
-🔗 [GitHub: toxidity-18](https://github.com/toxidity-18)
----
-
-## 🔥 Quote That Drives Me
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=dark)
+* Write code that scales.
+* Design systems that endure.
+* Secure everything.
+* Ship consistently.
+* Improve daily.
 
 ---
 
-## 🐍 Contribution Snake
+## Contact
 
-![Contribution Snake](https://github.com/toxidity-18/toxidity-18/blob/output/github-contribution-grid-snake-dark.svg)
+GitHub: [https://github.com/toxidity-18](https://github.com/toxidity-18)
+Location: Nairobi, Kenya
 
 ---
