@@ -1,40 +1,80 @@
+To align with your new "faceless operator" identity—focused on discipline, precision, and depth—this GitHub README is structured to act as a technical dossier. It removes the standard fluff and replaces it with a high-density overview of your engineering capabilities and architectural philosophy.
+
+---
+
 # Samuel Kamawira
+
 ### Software Engineer | AI & Backend Systems
 
-`Python` / `AI Engineering` / `Backend Architecture`
+**Nairobi, Kenya** 
+
+`Python` / `AI Engineering` / `Backend Architecture` / `Secure Systems` 
 
 ---
 
 ## ⚡ Professional Profile
-I am a focused software engineer specializing in **Python-based backend systems** and **AI engineering**. I prioritize depth over noise and execution over hype. My goal is simple: build reliable systems, write clean code, and let the output speak for itself.
 
-* **Focus:** Scalable Backend Architectures & Generative AI Integrations.
-* **Philosophy:** Write code that scales. Design systems that endure. Secure everything.
-* **Location:** Nairobi, Kenya 🇰🇪
+I am a focused and disciplined software engineer specializing in **Python-based backend systems**, **AI engineering**, and **secure API development**. My approach is simple: build reliable systems, write clean code, and let the work speak for itself. I prefer depth over noise, execution over talk, and precision over hype.
+
+* 
+**Current Focus:** Production-grade application design and Generative AI integration.
+
+
+* 
+**Methodology:** AI-assisted development with manual verification and rigorous unit testing.
+
+
+* 
+**Education:** Software Engineering at Power Learn Project (PLP) & Moringa School.
+
+
 
 ---
 
 ## 🛠 Technical Stack
 
 | Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white) |
-| **Backend** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| **AI & Data** | ![GenAI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
-| **Infrastructure** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| --- | --- |
+| **Languages** | 
+
+ |
+| **Backend** | 
+
+ |
+| **AI & ML** | 
+
+ |
+| **Tools** | 
+
+ |
 
 ---
 
-## 📋 Core Expertise
-* **Backend Engineering:** Production-grade application design and RESTful API development.
-* **AI Implementation:** LLM integrations and AI-assisted software systems.
-* **System Security:** Secure coding practices and robust authentication systems.
-* **Efficiency:** CI/CD pipelines and performance-optimized database management.
+## ⚙️ Engineering Principles
+
+* 
+**Security First:** Every endpoint is designed with authentication and vulnerability awareness in mind.
+
+
+* 
+**Scalable Architecture:** Building systems today that can endure the load of tomorrow.
+
+
+* 
+**Verifiable Code:** Heavy emphasis on unit testing with Pytest to ensure bug-free deployment.
+
+
+* 
+**Clear Documentation:** Prioritizing technical clarity so the system is maintainable by any engineer.
+
+
 
 ---
 
-## 📈 Engineering Metrics
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=toxidity-18&show_icons=true&theme=transparent&hide_border=true&title_color=009688&icon_color=009688&text_color=777)
+
+
+
 
 ---
 
+**Would you like me to move on to the 1-page ATS-optimized resume version next?**
