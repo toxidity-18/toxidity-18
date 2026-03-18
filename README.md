@@ -1,4 +1,4 @@
-# Samuel Kamawira
+# This ME .
 ### Software Engineer | AI & Backend Systems
 
 `Python` / `AI Engineering` / `Backend Architecture`
