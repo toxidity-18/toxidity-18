@@ -5,7 +5,7 @@
 
 ---
 
-## ⚡ Professional Profile
+## ⚡ Get to know me 
 I am a focused software engineer specializing in **Python-based backend systems** and **AI engineering**. I prioritize depth over noise and execution over hype. My goal is simple: build reliable systems, write clean code, and let the output speak for itself.
 
 * **Focus:** Scalable Backend Architectures & Generative AI Integrations.
